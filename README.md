@@ -27,7 +27,7 @@ You can reach me via:
 Here are some of the technologies and tools I've worked with:
 
 - **Programming Languages**: Python, Java
-- **Databases**: MySQL, SQLite
+- **Databases**: MySQL
 - **Data Visualization**: Power BI, MS Excel
 - **Web Technologies**: HTML, CSS, JavaScript
 - **Version Control**: GitHub
